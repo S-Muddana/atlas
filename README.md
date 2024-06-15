@@ -1,6 +1,6 @@
 # Atlas
 Atlas is an OpenGL procedural randomly generated terrain generation application that implements Perlin noise height maps, view frustum culling, and instancing.
-
+I worked on this with Ian Dong, Colin Steidmann, and Zachary Oon.
 
 ## Features
 - Randomly generated height maps via Perlin noise
